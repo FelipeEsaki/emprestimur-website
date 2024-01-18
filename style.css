@@ -1490,14 +1490,14 @@ main .carousel-slide img {
 }
 .first__section-sobrenos .first__section-content h1 {
   font-size: 1.5rem;
-  color: #2C5AA8;
+  color: #E22C31;
   font-weight: 800;
 }
 .first__section-sobrenos .first__section-content p {
   font-size: 1.2rem;
   color: #fff;
   font-weight: 400;
-  color: #2C5AA8;
+  color: #7e7e7e;
 }
 
 .second__section {
@@ -1520,7 +1520,7 @@ main .carousel-slide img {
   font-size: 1.2rem;
   color: #fff;
   font-weight: 400;
-  color: #2C5AA8;
+  color: #7e7e7e;
 }
 
 @media (max-width: 768px) {
@@ -1543,7 +1543,7 @@ main .carousel-slide img {
   }
   .first__section-sobrenos-content h1 {
     font-size: 2rem;
-    color: #2C5AA8;
+    color: #E22C31;
     font-weight: 800;
   }
   .first__section-sobrenos-content p {
@@ -1578,7 +1578,7 @@ main .carousel-slide img {
 }
 .servicos .servico h2 {
   font-size: 1.5rem;
-  color: #E22C31;
+  color: #2C5AA8;
   text-align: center;
 }
 .servicos .servico p {
@@ -1617,7 +1617,7 @@ main .carousel-slide img {
   }
   .servicos .servico h2 {
     font-size: 1.5rem;
-    color: #E22C31;
+    color: #2C5AA8;
     text-align: center;
   }
   .servicos .servico p {
@@ -1637,7 +1637,7 @@ main .carousel-slide img {
   margin: 50px auto;
   display: flex;
   flex-direction: column;
-  background-image: url(assets/bg\ form.png);
+  background-color: #2C5AA8;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 40px;
@@ -1694,7 +1694,7 @@ main .carousel-slide img {
   border-right: 1px solid rgba(200, 200, 200, 0.4);
   border-top: 1px solid #5a5a5a;
   border-left: 1px solid #5a5a5a;
-  color: #2C5AA8;
+  color: #fff;
   font-size: 1rem;
   font-weight: 400;
 }
@@ -1735,7 +1735,7 @@ main .carousel-slide img {
   border: 0;
 }
 .main__simulacao .form .btn-enviar:hover {
-  background-color: #2C5AA8;
+  background-color: #E22C31;
   color: #fff;
 }
 
@@ -1750,7 +1750,7 @@ main .carousel-slide img {
     margin: 50px auto;
     display: flex;
     flex-direction: column;
-    background-image: url(assets/bg\ form.png);
+    background-color: #2C5AA8;
     background-size: cover;
     padding: 40px;
     border-radius: 20px;
@@ -1914,7 +1914,7 @@ main .carousel-slide img {
   height: 600px;
   display: flex;
   flex-direction: column;
-  background-image: url(assets/bg\ form.png);
+  background-color: #2C5AA8;
   background-size: cover;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -1972,7 +1972,7 @@ main .carousel-slide img {
   border-right: 1px solid rgba(200, 200, 200, 0.4);
   border-top: 1px solid #5a5a5a;
   border-left: 1px solid #5a5a5a;
-  color: #2C5AA8;
+  color: #fff;
   font-size: 1rem;
   font-weight: 400;
 }
@@ -2030,7 +2030,6 @@ main .carousel-slide img {
 }
 
 body {
-  background-image: url(assets/pattern1.png);
   background-size: cover;
   background-position: center;
 }/*# sourceMappingURL=style.css.map */

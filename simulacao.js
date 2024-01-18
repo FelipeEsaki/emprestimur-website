@@ -4,7 +4,7 @@ const btnServicos = document.querySelectorAll('.botao-servicos');
 const btnEnviar = document.getElementById('enviar');
 
 
-let numeroWpp = '5519999505402';
+let numeroWpp = '5532988439122';
 
 let nome = document.querySelector('#nome');
 let email = document.querySelector('#email');

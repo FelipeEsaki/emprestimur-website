@@ -18,13 +18,13 @@
 
         h1 {
             font-size: 1.5rem;
-            color: $cor-secundaria;
+            color: $cor-primaria;
             font-weight: 800;
         }
 
         p {
             @include p-default;
-            color: $cor-secundaria;
+            color: $cor-cinza;
         }
     }
 }
@@ -48,7 +48,7 @@
 
         p {
             @include p-default;
-            color: $cor-secundaria;
+            color: $cor-cinza;
         }
     }
 }
@@ -76,7 +76,7 @@
 
             h1 {
                 font-size: 2rem;
-                color: $cor-secundaria;
+                color: $cor-primaria;
                 font-weight: 800;
             }
 

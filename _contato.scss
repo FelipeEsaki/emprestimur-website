@@ -68,7 +68,7 @@
         height: 600px;
         display: flex;
         flex-direction: column;
-        background-image: url(assets/bg\ form.png);
+        background-color: $cor-secundaria;
         background-size: cover;
         background-size: cover;
         box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -127,7 +127,7 @@
                 border-right: 1px solid rgba(200, 200, 200, .4);
                 border-top: 1px solid #5a5a5a;
                 border-left: 1px solid #5a5a5a;
-                color: $cor-secundaria;
+                color: $cor-branco;
                 font-size: 1rem;
                 font-weight: 400;
             }
